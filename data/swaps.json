@@ -1,5 +1,5 @@
-{
-  "swaps": [
+
+  [
     {
       "id": 1,
       "name": "Electric Bicycle",
@@ -137,31 +137,4 @@
       "date_published": "2022-08-12T18:14:53.850Z",
       "id": 9
     }
-  ],
-  "offers": [
-    {
-      "offerName": "PS4 2018",
-      "offerDesc": "brand new ps4, never used before",
-      "offerImage": "https://gmedia.playstation.com/is/image/SIEPDC/ps4-slim-image-block-01-en-24jul20?$1600px--t$",
-      "offerFor": 4,
-      "offerDate": "2022-06-27T09:56:01.353Z",
-      "id": 1
-    },
-    {
-      "offerName": "Who took my cheese",
-      "offerDesc": "Really Awesome book, you will love it",
-      "offerImage": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388639717l/4894.jpg",
-      "offerFor": 2,
-      "offerDate": "2022-06-27T10:41:03.586Z",
-      "id": 2
-    },
-    {
-      "offerName": "PS5 2020",
-      "offerDesc": "brand new ps5, never used before",
-      "offerImage": "https://i5.walmartimages.com/asr/1d3de94e-3d14-49a7-8cab-0595739e8804.5fa1eb7060645da2fd6fb752ca7ad5d9.jpeg",
-      "offerFor": 4,
-      "offerDate": "2022-06-27T09:56:01.353Z",
-      "id": 3
-    }
   ]
-}

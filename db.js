@@ -3,13 +3,16 @@ const tags = require("./data/tags");
 const brands = require("./data/brands");
 const itemTypes = require("./data/itemTypes");
 const swaps = require("./data/swaps.json")
+const offers = require("./data/offers.json")
+
 
 module.exports = {
   items,
   tags,
   brands,
   itemTypes,
-  swaps
+  swaps,
+  offers
 }
 
 
