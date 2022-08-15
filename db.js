@@ -4,6 +4,8 @@ const brands = require("./data/brands");
 const itemTypes = require("./data/itemTypes");
 const swaps = require("./data/swaps.json")
 const offers = require("./data/offers.json")
+const users = require("./data/users.json")
+
 
 
 module.exports = {
@@ -12,7 +14,8 @@ module.exports = {
   brands,
   itemTypes,
   swaps,
-  offers
+  offers,
+  users
 }
 
 
