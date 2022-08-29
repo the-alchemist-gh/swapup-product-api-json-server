@@ -1,5 +1,5 @@
 const items = require("./data/items");
-const tags = require("./data/tags");
+const st = require("./data/st.json");
 const brands = require("./data/brands");
 const itemTypes = require("./data/itemTypes");
 const swaps = require("./data/swaps.json")
@@ -10,7 +10,7 @@ const users = require("./data/users.json")
 
 module.exports = {
   items,
-  tags,
+  st,
   brands,
   itemTypes,
   swaps,
